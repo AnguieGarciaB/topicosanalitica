@@ -1,4 +1,12 @@
 # Tópicos Avanzados de Analítica
+
+## Integrantes
+- Sonia Ramirez
+- Lourdes Rodil
+- Mili Galindo
+- Anguie Garcia
+
+- 
 ## Proyecto NLP - Predicción de géneros de películas basadas en su descripción
 <img src="https://raw.githubusercontent.com/sergiomora03/AdvancedTopicsAnalytics/main/notebooks/img/moviegenre.png" style="float: left; margin-right: 15px;" />
 
@@ -15,8 +23,3 @@ El repositorio contiene los siguientes elementos:
 - **Informe**: Detalles de la solución propuesta en formato PDF.
 
 
-## Integrantes
-- Sonia Ramirez
-- Lourdes Rodil
-- Mili Galindo
-- Anguie Garcia
