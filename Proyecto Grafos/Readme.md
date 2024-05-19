@@ -1,6 +1,8 @@
 # Tópicos Avanzados de Analítica
 ## Proyecto Grafos - Amazon
-<img src="https://github.com/AnguieGarciaB/topicosanalitica/edit/main/Proyecto%20Grafos/Amazon_Belleza.jpg" style="float: left; margin-right: 15px;" />
+
+
+<img src="https://raw.githubusercontent.com/AnguieGarciaB/topicosanalitica/main/Proyecto%20Grafos/Amazon_Belleza.jpg" style="float: left; margin-right: 15px;" />
 
 
 ## Descripción
