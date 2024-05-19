@@ -1,6 +1,7 @@
 # Tópicos Avanzados de Analítica
 ## Proyecto Grafos - Amazon
-<img src="https://raw.githubusercontent.com/AnguieGarciaB/topicosanalitica/main/notebooks/Proyecto Grafos/Amazon_Belleza.jpg" style="float: left; margin-right: 15px;" />
+<img src="https://github.com/AnguieGarciaB/topicosanalitica/tree/995332f738864111258bcf3977f738e449c53a6c/Proyecto%20Grafos/Amazon_Belleza.jpg" style="float: left; margin-right: 15px;" />
+
 
 ## Descripción
 Este proyecto presenta una solución completa para abordar un problema de análisis de datos utilizando técnicas avanzadas de aprendizaje automático. Se desarrolló un modelo de XXXXXX en Python.
