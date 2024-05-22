@@ -2,7 +2,7 @@
 ## Proyecto Grafos - Amazon
 
 
-<img src="https://raw.githubusercontent.com/AnguieGarciaB/topicosanalitica/main/Proyecto%20Grafos/Amazon_Belleza.jpg" style="float: left; margin-right: 15px;" />
+<img src="https://raw.githubusercontent.com/AnguieGarciaB/topicosanalitica/main/Proyecto%20Grafos/Amazon_Fotografia.jpg" style="float: left; margin-right: 15px;" />
 
 
 ## Descripción
