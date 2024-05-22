@@ -6,7 +6,7 @@
 
 
 ## Descripción
-Este proyecto presenta una solución completa para abordar un problema de análisis de datos utilizando técnicas avanzadas de aprendizaje automático. Se desarrolló un modelo de XXXXXX en Python.
+Este proyecto presenta una solución completa para abordar un problema de análisis de datos utilizando técnicas avanzadas de aprendizaje automático. Se desarrolló un modelo de clasificacion de productos de fotografia de Amazon en 8 clases en Python.
 
 ## Estructura del Repositorio
 El repositorio contiene los siguientes elementos:
