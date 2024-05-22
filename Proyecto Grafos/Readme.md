@@ -17,7 +17,9 @@ El repositorio contiene los siguientes elementos:
 
 
 ## Integrantes
-- Sonia Ramirez
-- Lourdes Rodil
-- Mili Galindo
 - Anguie Garcia
+- Sonia Ramirez
+- Mili Galindo
+- Lourdes Rodil
+
+
