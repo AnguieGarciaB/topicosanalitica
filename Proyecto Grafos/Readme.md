@@ -13,6 +13,8 @@ El repositorio contiene los siguientes elementos:
 
 - **Notebook**: Archivo Colab Notebook que contiene el código utilizado para procesar los datos y entrenar los modelos.
 
+     [Ver documento](https://github.com/AnguieGarciaB/topicosanalitica/blob/ec734ef8835a8f5d9aedde8d3f1dab9dfa95231a/Proyecto%20Grafos/Graphs_Project_classification_Amazon_.ipynb)
+  
 - **Presentación**: Presentación del proyecto implementado.
 
      [Ver documento]( https://github.com/AnguieGarciaB/topicosanalitica/blob/d6251ac258fe70c23367cb6d8930c5796f1857d7/Proyecto%20Grafos/Graph%20Machine%20Learning%20-%20Amazon%20Productos%20de%20fotografia.pdf)
