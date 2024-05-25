@@ -17,7 +17,7 @@ El repositorio contiene los siguientes elementos:
 
 - **Presentación**: Presentación del proyecto implementado.
 
-     [Ver documento]( )
+     [Ver documento]( https://github.com/AnguieGarciaB/topicosanalitica/blob/130f20116b261fd8446040f8afc22498f7e051b7/Proyecto%20Grafos/Proyecto%202_%20T%C3%B3picos%20Avanzados%20de%20Anal%C3%ADtica%20(Grafos%20Amazon).pdf)
   
 - **Informe**: Detalles de la solución propuesta en formato PDF y el detalle de las actividades realizadas por el equipo.
 
