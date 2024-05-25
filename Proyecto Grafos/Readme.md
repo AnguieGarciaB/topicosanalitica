@@ -12,8 +12,6 @@ Este proyecto presenta una solución completa para abordar un problema de análi
 El repositorio contiene los siguientes elementos:
 
 - **Notebook**: Archivo Colab Notebook que contiene el código utilizado para procesar los datos y entrenar los modelos.
-  
-   [Ver documento](https://github.com/AnguieGarciaB/topicosanalitica/blob/42153cfa8685d9bf60ed61460ab74249e6c240ca/Proyecto%20Grafos/Graphs_Project_classification_Amazon%20%20Final%20(240524%204pm).ipynb)
 
 - **Presentación**: Presentación del proyecto implementado.
 
